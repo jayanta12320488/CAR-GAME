@@ -17,9 +17,9 @@ int enemyY[3];
 int enemyX[3];
 int enemyFlag[3];
 char car[4][4] = { ' ','±','±',' ',
-					'±','±','±','±',
-					' ','±','±',' ',
-					'±','±','±','±' };
+					'A','B','C','D',
+					' ','E','F',' ',
+					'G','H','I','J' };
 
 int carPos = WIN_WIDTH/2;
 int score = 0;
